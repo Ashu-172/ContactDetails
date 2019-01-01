@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Phone Book</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="Add_name">Name</string>
+    <string name="Add_contact">Contact Number</string>
+    <string name="Add_web">Website</string>
+    <string name="Add_address">Address</string>
+    <string name="Add_all">Add</string>
+    <string name="Cancel_all">cancel</string>
+    <string name="unhappy_vector_image">unhappy vector image</string>
+    <string name="neutral_vector_image">neutral vector image</string>
+    <string name="happy_vector_image">happy vector image</string>
+</resources>
