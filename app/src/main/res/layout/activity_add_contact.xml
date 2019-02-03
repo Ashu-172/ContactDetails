@@ -31,7 +31,7 @@
         android:hint="@string/Add_name"
         android:inputType="textPersonName"
         android:singleLine="true"
-        android:backgroundTint="#CDDC39"
+        android:backgroundTint="@color/colorPrimary"
         android:textColor="#000000" />
 
     <EditText
@@ -45,7 +45,7 @@
         android:gravity="center_horizontal"
         android:hint="@string/Add_contact"
         android:inputType="phone"
-        android:backgroundTint="#CDDC39"
+        android:backgroundTint="@color/colorPrimary"
         android:textColor="#000000" />
 
     <EditText
@@ -59,7 +59,7 @@
         android:gravity="center_horizontal"
         android:hint="@string/Add_web"
         android:inputType="textPersonName|textWebEditText"
-        android:backgroundTint="#CDDC39"
+        android:backgroundTint="@color/colorPrimary"
         android:textColor="#000000" />
 
     <EditText
@@ -73,7 +73,7 @@
         android:gravity="center_horizontal"
         android:hint="@string/Add_address"
         android:inputType="textPostalAddress"
-        android:backgroundTint="#CDDC39"
+        android:backgroundTint="@color/colorPrimary"
         android:minLines="2"
         android:textColor="#000000" />
 
